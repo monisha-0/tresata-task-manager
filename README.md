@@ -4,7 +4,8 @@ The application allows users to create, update, delete, and manage tasks grouped
 
 ---
 ## Live Demo
-> 🔗 Deployed Application URL: https://6967edab9bf1bdb4653e7858--chic-llama-f9c3c7.netlify.app/
+Deployed Application URL: https://6967edab9bf1bdb4653e7858--chic-llama-f9c3c7.netlify.app/
+
 ---
 ## Features
 
